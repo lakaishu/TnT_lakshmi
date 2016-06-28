@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:icon="@drawable/navig_overview_icon"
+            android:title="Overview"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_second_fragment"
+            android:icon="@drawable/navig_history_icon"
+            android:title="History" />
+        <item
+            android:id="@+id/nav_third_fragment"
+            android:icon="@drawable/navig_income_icon"
+            android:title="Income" />
+        <item
+            android:id="@+id/nav_fourth_fragment"
+            android:icon="@drawable/navig_expenditure_icon"
+            android:title="Expenditure" />
+        <item
+            android:id="@+id/nav_fifth_fragment"
+            android:icon="@drawable/navig_analysis_icon"
+            android:title="Analysis" />
+    </group>
+
+</menu>

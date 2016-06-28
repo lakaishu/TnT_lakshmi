@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">TnT</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="tot">Total</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="exp">type here</string>
+    <string name="add_exp">Please Enter your expense here!</string>
+</resources>
